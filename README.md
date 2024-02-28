@@ -3,5 +3,5 @@ Researcher
 Theoretical Computer Science
 Mathematics
 Logic
-Programming languages
+Programming Languages
 Proof theory
